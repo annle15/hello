@@ -6,8 +6,9 @@ Date: 2020/01/14
 
 int main(void) {
   printf("Ann Le\n");
-  printf("Undeclared"\n);
   printf("Undeclared\n");
+  printf("Andy Trang\n");
+  printf("Computer Science\n");
   return 0;
 }
 
